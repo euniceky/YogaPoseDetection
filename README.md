@@ -12,5 +12,5 @@ the advantages and drawbacks of different approaches. Various models (Resnet18, 
 We confirm that ResNet does not work well on Tensorflow keras as mentioned in the article
 https://l7.curtisnorthcutt.com/towards-reproducibility-benchmarking-keras-pytorch. 
 
-See the [accuracy summary.](https://github.com/euniceky/YogaPoseDetection/blob/master/AccuracySummary.pdf) The best model was ResNet18 in PyTorch which has accuracy 92.31%. 
+See the [accuracy summary report](https://github.com/euniceky/YogaPoseDetection/blob/master/AccuracySummary.pdf) of this project. The best model was ResNet18 in PyTorch which has accuracy 92.31%. 
 
